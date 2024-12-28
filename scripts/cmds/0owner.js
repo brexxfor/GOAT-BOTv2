@@ -16,11 +16,11 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'BAYJID Ai',
+      name: 'Austine Salvador',
       gender: 'Male',
-      age: '17+',
+      age: '19',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/BAYJID.404',
+      facebookLink: 'https://www.facebook.com/Austine',
       nick: 'BIJU'
     };
 
