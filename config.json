@@ -35,30 +35,29 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
-    "61567325751299"
+    "100094345072494",
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      "100094345072494"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯",
+  "nickNameBot": "KiLleR✓-৬T৯",
   "prefix": "?",
   "BaYjidnapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "BaYjid🤡",
+  "authorName": "Austine🤓",
   "facebook2": "https://www.facebook.com/BAYJID.404",
   "facebook": "https://www.facebook.com/BAYJID.404",
-  "email": "mohammadbayjid204@yahoo.com",
-  "replit": "https://replit.com/@biju",
-  "github": "https://github.com/BAYJID-404-BOYZ",
+  "email": "austinesalvador99@gmail.com",
+  "replit": "no",
+  "github": "https://github.com/Austinesmith",
   "insta": "no",
-  "age": "17+",
+  "age": "19",
   "TG": "",
   "database": {
     "type": "sqlite",
