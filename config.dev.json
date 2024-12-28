@@ -40,7 +40,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100094345072494"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
@@ -51,8 +51,8 @@
   "api2": "",
   "api3": "",
   "authorName": "Austine🤓",
-  "facebook2": "https://www.facebook.com/BAYJID.404",
-  "facebook": "https://www.facebook.com/BAYJID.404",
+  "facebook2": "https://www.facebook.com/Austine",
+  "facebook": "https://www.facebook.com/Austine",
   "email": "austinesalvador99@gmail.com",
   "replit": "no",
   "github": "https://github.com/Austinesmith",
@@ -170,10 +170,8 @@
   },
   "whiteListModeThread": {
     "enable": false,
-    "whiteListThreadIds": [
-      "8840822942680314"
-    ],
-    "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
+    "whiteListThreadIds": [],
+  "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
   }
 }
