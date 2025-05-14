@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "murgi",
 	version: "1.0.1",
 	role: 2,
-	author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
+	author: "murga hide raihan", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
 	description: "tag gali",
    category: "media",
 	usages: "taggali",
